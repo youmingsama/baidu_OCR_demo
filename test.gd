@@ -9,8 +9,8 @@ extends Plugin #默认继承插件类，请勿随意改动
 #var data:Dictionary = {}
 #var lib:Plugin = null
 #var connected:bool = true
-var send_qq:int = 134976506
-var receive_qq:int =2080702939
+var send_qq:int = 
+var receive_qq:int =
 var text="打卡了啦打卡啦"
 var host="https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=ak&client_secret=sk"
 var token:String
